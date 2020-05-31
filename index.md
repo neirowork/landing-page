@@ -1,5 +1,4 @@
 # NeiRo.WORK / ねいろわーく
-> 現在LP作成中です。
 
 ## わたしたちについて
 - 名称 : NeiRo.WORK(日本語 : ねいろわーく)
@@ -8,8 +7,6 @@
 - 活動
   - ロゴ・書籍デザイン
   - 中規模Discordサーバ向け運営補助BOTの開発
-- 専門分野
-  - 組込みシステム
 
 ## 歴史
 - 2018年8月、染宮が「ねいろぱわー」として個人サークルを開設。
@@ -20,13 +17,19 @@
 
 ## メンバー
 ### 染宮ねいろ [nirsmmy](https://github.com/nirsmmy)
+- ねいろわーくメンバー No.0 (想起者)
+- 好きなもの : メトロチックで可愛いデザイン
+- コーポレートカラー : オレンジ(#ff8800)
+- 専門分野 : システム設計, バックエンド開発
 
 ### zen [zen510](https://github.com/zen510)
+- ねいろわーくメンバー No.1
+- 専門分野 : 電子回路, 組込みシステム
 
 ## 活動
 ### FAIS
-  - 概要 : ゲームコミュニティ Discordサーバの運営補助BOT開発･運用
-  - 関連リポジトリ : [neirowork/FAIS](https://github.com/neirowork/FAIS)
-  - 使用技術
-    - 開発 : TypeScript + MongoDB + ESLint
-    - 運用 : AWS Lightsail
+- 概要 : ゲームコミュニティ Discordサーバの運営補助BOT開発･運用
+- 関連リポジトリ : [neirowork/FAIS](https://github.com/neirowork/FAIS)
+- 使用技術
+  - 開発 : TypeScript + MongoDB + ESLint
+  - 運用 : AWS Lightsail
