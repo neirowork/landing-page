@@ -33,3 +33,9 @@
 - 使用技術
   - 開発 : TypeScript + MongoDB + ESLint
   - 運用 : AWS Lightsail
+
+### NRWK-PBX / NPBX
+- 概要 : 団体電話回線へのクラウドPBX及びIVRの導入･運用
+- 使用技術
+  - 開発 : Asterisk + SMARTalk
+  - 運用 : AWS Lightsail
